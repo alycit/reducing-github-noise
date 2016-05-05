@@ -1,3 +1,5 @@
+# How to reduce the Github Noise!
+
 These are my notification settings... uncheck 'automatically watch' and leave everything checked.
 
 ![image-1](./Screen Shot 2016-01-23 at 6.02.51 PM.png)
